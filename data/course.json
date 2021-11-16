@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Global Poverty"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1b69a877-81fa-7193-5699-cab7c0a6383d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Good Food: Ethics and Politics of Food",
+  "course_description": "This course explores the values (aesthetic, moral, cultural, religious, prudential, political) expressed in the choices of food people eat. Analyzes the decisions individuals make about what to eat, how society should manage food production and consumption collectively, and how reflection on food choices might help resolve conflicts between different values.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.03",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
